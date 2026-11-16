@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "nombre": "bulbasaur",
+        "altura": 7,
+        "peso": 69,
+        "tipo": [
+            "grass",
+            "poison"
+        ],
+        "experiencia_base": 64
+    },
+    {
+        "id": 2,
+        "nombre": "ivysaur",
+        "altura": 10,
+        "peso": 130,
+        "tipo": [
+            "grass",
+            "poison"
+        ],
+        "experiencia_base": 142
+    },
+    {
+        "id": 3,
+        "nombre": "venusaur",
+        "altura": 20,
+        "peso": 1000,
+        "tipo": [
+            "grass",
+            "poison"
+        ],
+        "experiencia_base": 236
+    },
+    {
+        "id": 4,
+        "nombre": "charmander",
+        "altura": 6,
+        "peso": 85,
+        "tipo": [
+            "fire"
+        ],
+        "experiencia_base": 62
+    },
+    {
+        "id": 5,
+        "nombre": "charmeleon",
+        "altura": 11,
+        "peso": 190,
+        "tipo": [
+            "fire"
+        ],
+        "experiencia_base": 142
+    },
+    {
+        "id": 6,
+        "nombre": "charizard",
+        "altura": 17,
+        "peso": 905,
+        "tipo": [
+            "fire",
+            "flying"
+        ],
+        "experiencia_base": 240
+    },
+    {
+        "id": 7,
+        "nombre": "squirtle",
+        "altura": 5,
+        "peso": 90,
+        "tipo": [
+            "water"
+        ],
+        "experiencia_base": 63
+    },
+    {
+        "id": 8,
+        "nombre": "wartortle",
+        "altura": 10,
+        "peso": 225,
+        "tipo": [
+            "water"
+        ],
+        "experiencia_base": 142
+    },
+    {
+        "id": 9,
+        "nombre": "blastoise",
+        "altura": 16,
+        "peso": 855,
+        "tipo": [
+            "water"
+        ],
+        "experiencia_base": 239
+    },
+    {
+        "id": 10,
+        "nombre": "caterpie",
+        "altura": 3,
+        "peso": 29,
+        "tipo": [
+            "bug"
+        ],
+        "experiencia_base": 39
+    }
+]
